@@ -1,1 +1,9 @@
 node_modules/
+
+# Mono auto generated files - Ignore all files starting with "z"
+z*
+
+gitignore ".env"
+
+
+
